@@ -4,7 +4,7 @@
 
 
 ## Point of View
-> 
+> Wie können wir den Studenten helfen, Kontakt zu anderen Fakultäten aufzubauen.
 
 ## Material und Werkzeug
 ### Material für Netzwerkverbindung
