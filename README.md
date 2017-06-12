@@ -7,7 +7,7 @@
 ### Material für Netzwerkverbindung
 * LAN-Kabel
 * Switch
-* (Optional Wi-Fi auf Raspberry-Pi für Netzwerkaufbau)
+* (Alternativ Wi-Fi auf Raspberry-Pi für Netzwerkaufbau)
 
 ### Material für jeweils ein Spielgerät
 * 1x Raspberry-Pi
