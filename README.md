@@ -1,5 +1,8 @@
 # CBN
 
+## Projekt
+
+
 ## Point of View
 > 
 
@@ -16,6 +19,8 @@
 * 1x LED-Matrix
 * 1x Webcam mit Mikrofon (via USB)
 * 4x Buttons für Steuerung
+* 1x Button für Spielbereit/Spielstarten
+* 1x Klinkenbuchse
 
 ### Werkzeug
 
@@ -24,3 +29,5 @@
 ## Step-by-Step Guide
 
 ## Konfigurationen
+
+## Ausblick
