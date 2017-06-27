@@ -41,9 +41,9 @@
 
 ![Arduino-Mega Verkabelung Seite 1](images/IMG_20170627_120605_405.jpg)
 
-![Arduino-Mega Verkabelung Seite 2](cbn/images/IMG_20170627_120628_387.jpg)
+![Arduino-Mega Verkabelung Seite 2](images/IMG_20170627_120628_387.jpg)
 
-![Arduino-Mega Buttons](cbn/images/IMG_20170627_120620_242.jpg)
+![Arduino-Mega Buttons](images/IMG_20170627_120620_242.jpg)
 
 #### Software
 Repository:
