@@ -37,18 +37,16 @@
 ### 1. Arduino-Mega (Labyrinth-Spiel)
 #### Anschlüsse / Verkabelung
 
-![Übersicht Arduino-Mega Verkabelung](images/IMG_20170627_120535_451.jpg)
+<img src="images/IMG_20170627_120535_451.jpg" width="500">
 
-![Arduino-Mega Verkabelung Seite 1](images/IMG_20170627_120605_405.jpg)
+<img src="images/IMG_20170627_120605_405.jpg" width="500">
 
-![Arduino-Mega Verkabelung Seite 2](images/IMG_20170627_120628_387.jpg)
+<img src="images/IMG_20170627_120628_387.jpg" width="500">
 
-
-Buttons Belegung:
-![Arduino-Mega Buttons](images/IMG_20170627_120620_243.jpg)
+<img src="images/IMG_20170627_120620_243.jpg" width="500">
 
 ### Matrix
-![Matrix](images/IMG_20170627_123144_122.jpg)
+<img src="images/IMG_20170627_123144_122.jpg" width="500">
 
 #### Software
 Repository:
