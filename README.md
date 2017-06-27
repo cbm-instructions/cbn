@@ -45,7 +45,7 @@
 
 
 Buttons Belegung:
-![Arduino-Mega Buttons](images/IMG_20170627_120620_242.jpg)
+![Arduino-Mega Buttons](images/IMG_20170627_120620_243.jpg)
 
 #### Software
 Repository:
