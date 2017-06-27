@@ -26,10 +26,31 @@
 * 1x USB to FireWire (Männlich/Männlich)
 
 ### Werkzeug
+* Holzberarbeitungswerkzeug für das Gehäuse
+* Holzleim für das Gehäuse
+* Lötkolben
+* Schraubendreher
 
 ## Vorbereitung
 
 ## Step-by-Step Guide
+### 1. Arduino-Mega (Labyrinth-Spiel)
+#### Anschlüsse / Verkabelung
+
+![Übersicht Arduino-Mega Verkabelung](images/IMG_20170627_120535_450.jpg)
+
+![Arduino-Mega Verkabelung Seite 1](images/IMG_20170627_120605_405.jpg)
+
+![Arduino-Mega Verkabelung Seite 2](images/IMG_20170627_120628_387.jpg)
+
+![Arduino-Mega Buttons](images/IMG_20170627_120620_242.jpg)
+
+#### Software
+Repository:
+> https://github.com/T-Sona/CBM-MatrixGame.git
+
+Die Datei "CBM-Matrix-Game.ino" mit Hilfe der Arduino-IDE auf den Arduino-Mega laden.
+
 
 ## Konfigurationen
 
