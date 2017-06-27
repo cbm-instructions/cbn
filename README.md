@@ -48,7 +48,7 @@ Buttons Belegung:
 ![Arduino-Mega Buttons](images/IMG_20170627_120620_243.jpg)
 
 ### Matrix
-![Matrix](images/IMG_20170627_123144_121.jpg)
+![Matrix](images/IMG_20170627_123144_122.jpg)
 
 #### Software
 Repository:
