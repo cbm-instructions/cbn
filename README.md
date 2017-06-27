@@ -43,6 +43,8 @@
 
 ![Arduino-Mega Verkabelung Seite 2](images/IMG_20170627_120628_387.jpg)
 
+
+Buttons Belegung:
 ![Arduino-Mega Buttons](images/IMG_20170627_120620_242.jpg)
 
 #### Software
