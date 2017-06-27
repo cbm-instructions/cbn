@@ -37,7 +37,7 @@
 ### 1. Arduino-Mega (Labyrinth-Spiel)
 #### Anschlüsse / Verkabelung
 
-![Übersicht Arduino-Mega Verkabelung](images/IMG_20170627_120535_450.jpg)
+![Übersicht Arduino-Mega Verkabelung](images/IMG_20170627_120535_451.jpg)
 
 ![Arduino-Mega Verkabelung Seite 1](images/IMG_20170627_120605_405.jpg)
 
