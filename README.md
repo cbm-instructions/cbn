@@ -45,7 +45,14 @@
 
 <img src="images/IMG_20170627_120620_243.jpg" width="500">
 
+#### Software
+Repository:
+> https://github.com/T-Sona/CBM-MatrixGame.git
+
+Die Datei "CBM-Matrix-Game.ino" mit Hilfe der Arduino-IDE auf den Arduino-Mega laden.
+
 ## 2. Matrix
+Die Matrix wird wie folgt angeschlossen:
 <img src="images/IMG_20170627_123144_122.jpg" width="500">
 
 ## 3. Raspberry-Pi
@@ -53,13 +60,6 @@ Alle notwendigen Einstellungen sind im folgenden Image enthalten.
 Dazu einfach die SD-Karte mit diesem Image bespielen:
 Raspberry-Image:
 > hier image
-
-#### Software
-Repository:
-> https://github.com/T-Sona/CBM-MatrixGame.git
-
-Die Datei "CBM-Matrix-Game.ino" mit Hilfe der Arduino-IDE auf den Arduino-Mega laden.
-
 
 ## Konfigurationen
 
