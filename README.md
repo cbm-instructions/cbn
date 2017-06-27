@@ -45,8 +45,14 @@
 
 <img src="images/IMG_20170627_120620_243.jpg" width="500">
 
-### Matrix
+## 2. Matrix
 <img src="images/IMG_20170627_123144_122.jpg" width="500">
+
+## 3. Raspberry-Pi
+Alle notwendigen Einstellungen sind im folgenden Image enthalten.
+Dazu einfach die SD-Karte mit diesem Image bespielen:
+Raspberry-Image:
+> hier image
 
 #### Software
 Repository:
