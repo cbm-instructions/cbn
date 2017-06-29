@@ -86,3 +86,13 @@ ___
 
 ___
 ## Ausblick
+
+Essentiell ist das Beheben der Ruckler im Videostream -> Hitzeproblem des Raspberry-PI reduzieren und ggf. Framerates des Streams in der config anpassen.
+
+Erweituerungen hinsichtlich des Labyrinth-Spiels waren Anfangs geplant und werden ggf. noch nachgeholt.
+So sind offene Punkte für das Spiel:
+* roter Button als "Aufgeben / Spiel neustarten"
+* Schwierigkeitsstufen einführen, die man bei Spielstart auswählen kann
+  * Spielfeld drehen, um Kommunikation für Richtung zu erschweren
+  * zeitliche Frist, um durch das Labyrinth zu kommen
+  * Zeit: Ranksystem
