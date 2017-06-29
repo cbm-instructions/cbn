@@ -60,6 +60,7 @@ Alle notwendigen Einstellungen sind im folgenden Image enthalten.
 Dazu einfach die SD-Karte mit diesem Image bespielen:
 Raspberry-Image:
 > hier image
+https://goo.gl/BdDGMM
 
 ## Konfigurationen
 
