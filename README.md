@@ -63,15 +63,15 @@ ___
 Alle notwendigen Einstellungen sind im folgenden [Image](https://goo.gl/BdDGMM) enthalten.
 Dazu einfach die SD-Karte mit diesem [Image](https://goo.gl/BdDGMM) bespielen.
 Hierfür diese Anleitung für [Windows](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md), [Mac OS](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md) und [Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md) benutzen.
-Für diese Installation ist es wichtig, dass eine 16GB Micro SD-Karte vorhanden ist, da sonst das Image nicht aufgespielt werden kann.
+Für diese Installation ist es wichtig, dass eine mindestens 16GB große Micro SD-Karte benutzt wird, da sonst das Image nicht aufgespielt werden kann.
 
 ### Anschluss
 <img src="images/IMG_20170627_123144_122.jpg" width="500">
 
 ### Konfiguration
 
-Die Konfiguration erfolgt durch anschließen einer Maus und Tastatur an das Raspberry PI.
-1. Nach dem Start des Gerätes ```ALT+F4``` drücken um den Browser zu schließen der das Webcam bild des anderen PIs anzeigen sollte
+Die Konfiguration erfolgt durch anschließen einer Maus und Tastatur an das Raspberry-PI.
+1. Nach dem Start des Gerätes ```ALT+F4``` drücken, um den Browser zu schließen der das Webcambild des anderen PIs anzeigen sollte
 2. ```nano /home/pi/restApi.py```
 3. In der Datei die IP-Adresse des Partner PIs eintragen
 4. ```CTRL+X``` drücken und die Datei speichern
