@@ -80,4 +80,6 @@ Die Konfiguration erfolgt durch anschließen einer Maus und Tastatur an das Rasp
 6. Schritt 3. und 4. widerholen
 7. Das Raspberry PI neustarten (sudo reboot)
 
+## 5. Gehäuse
+
 ## Ausblick
