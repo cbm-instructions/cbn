@@ -47,7 +47,8 @@ ___
 <img src="images/IMG_20170627_120620_243.jpg" width="500">
 
 ### Matrix
-Die Matrix wird wie folgt an den Arduino-Mega angeschlossen:
+
+Um die Matrix richtig mit dem Arduino zu verbinden verwenden Sie bitte die folgenden [Anleitung](https://learn.adafruit.com/32x16-32x32-rgb-led-matrix/connecting-with-jumper-wires)
 
 <img src="images/IMG_20170627_123144_122.jpg" width="500">
 
@@ -62,13 +63,16 @@ Die Matrix wird wie folgt an den Arduino-Mega angeschlossen:
 
 ___
 ## 3. Raspberry-PI
-Alle notwendigen Einstellungen sind im folgenden [Image](https://goo.gl/BdDGMM) enthalten.
-Dazu einfach die SD-Karte mit diesem [Image](https://goo.gl/BdDGMM) bespielen.
+Alle notwendigen Einstellungen sind im folgenden [Image](https://drive.google.com/file/d/0B50TDmuMFSKsd2daOUdSY3BQbTg/view?usp=sharing) enthalten.
+Dazu einfach die SD-Karte mit diesem Image bespielen.
 Hierfür diese Anleitung für [Windows](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md), [Mac OS](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md) und [Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md) benutzen.
 Für diese Installation ist es wichtig, dass eine mindestens 16GB große Micro-SD-Karte benutzt wird, da sonst das Image nicht aufgespielt werden kann.
 
 ### Anschluss
-<img src="images/IMG_20170627_123144_122.jpg" width="500">
+
+Um das Raspberry PI mit dem Bildschirm zu verbinden verwenden Sie bitte folgende [Anleitung](https://thepihut.com/blogs/raspberry-pi-tutorials/45295044-raspberry-pi-7-touch-screen-assembly-guide)
+
+
 
 ### Konfiguration
 
