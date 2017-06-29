@@ -73,11 +73,11 @@ Für diese Installation ist es wichtig, dass eine 16GB Micro SD-Karte vorhanden 
 ## Konfigurationen
 
 Die Konfiguration erfolgt durch anschließen einer Maus und Tastatur an das Raspberry PI.
-1. Nach dem Start des Gerätes ALT+F4 um den Browser zu schließen der das Webcam bild des anderen PIs anzeigen sollte
-2. nano /home/pi/restApi.py
+1. Nach dem Start des Gerätes ```ALT+F4``` drücken um den Browser zu schließen der das Webcam bild des anderen PIs anzeigen sollte
+2. ```nano /home/pi/restApi.py```
 3. In der Datei die IP-Adresse des Partner PIs eintragen
-4. CTRL+X drücken und die Datei speichern
-5. nano /.... Tim hier muss der Pfad deiner SH File rein
+4. ```CTRL+X``` drücken und die Datei speichern
+5. ```sudo nano /home/pi/kiosk.sh```
 6. Schritt 3. und 4. widerholen
 7. Das Raspberry PI neustarten (sudo reboot)
 
