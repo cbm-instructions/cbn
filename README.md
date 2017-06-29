@@ -6,6 +6,7 @@
 ## Point of View
 > Wie können wir den Studenten helfen, Kontakt zu anderen Fakultäten aufzubauen.
 
+___
 ## 1. Material und Werkzeug
 ### Material für Netzwerkverbindung
 * LAN-Kabel
@@ -33,6 +34,7 @@
 * Lötkolben
 * Schraubendreher
 
+___
 ## 2. Arduino-Mega (Labyrinth-Spiel)
 ### Anschlüsse / Verkabelung
 
@@ -80,6 +82,8 @@ Die Konfiguration erfolgt durch anschließen einer Maus und Tastatur an das Rasp
 6. Schritt 3. und 4. widerholen
 7. Das Raspberry PI neustarten (sudo reboot)
 
+___
 ## 5. Gehäuse
 
+___
 ## Ausblick
