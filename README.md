@@ -47,7 +47,7 @@
 
 #### Software
 Repository:
-> https://github.com/T-Sona/CBM-MatrixGame.git
+> https://github.com/cbm-instructions/cbn/blob/master/Matrix-Game/CBM-Matrix-Game.ino
 
 Die Datei "CBM-Matrix-Game.ino" mit Hilfe der Arduino-IDE auf den Arduino-Mega laden.
 
