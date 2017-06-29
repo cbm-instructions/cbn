@@ -25,6 +25,7 @@
 * 1x USB to FireWire (Männlich/Männlich)
 * Lötzinn
 * 5 Widerstände
+* 16GB Micro SD Karte
 
 ### Werkzeug
 * Holzberarbeitungswerkzeug für das Gehäuse
@@ -47,21 +48,37 @@
 <img src="images/IMG_20170627_120620_243.jpg" width="500">
 
 #### Software
-> https://github.com/cbm-instructions/cbn/blob/master/Matrix-Game/CBM-Matrix-Game.ino
 
-Die Datei "CBM-Matrix-Game.ino" mit Hilfe der Arduino-IDE auf den Arduino-Mega laden.
+1. Die Bibliothek 
+[RGB-matrix-Panel](https://drive.google.com/file/d/0B50TDmuMFSKsUUpuMk5kRlZKdFk/view?usp=sharing) und [Adafruit-GFX](https://drive.google.com/file/d/0B50TDmuMFSKsV3NNSXlYT0RGSzA/view?usp=sharing) herunterladen
+1. Die [Datei](Matrix-Game/CBM-Matrix-Game.ino) mit Hilfe der Arduino-IDE öffnen
+2. Nun auf den Reiter Sketch gehen dort den Unterpunkt Bibliothek einbinden wählen und hier dann .ZIP Bibliothek einbinden auswählen, dies für beide gedownloadeten Zip-Bibliotheken durchführen
+3. Nun kann man durch klicken auf den Hochladen Button das Programm auf den Arduino aufspielen
+<img src="images/Upload.PNG" width="500">
+
 
 ## 2. Matrix
 Die Matrix wird wie folgt angeschlossen:
 <img src="images/IMG_20170627_123144_122.jpg" width="500">
 
-## 3. Raspberry-Pi
-Alle notwendigen Einstellungen sind im folgenden Image enthalten.
+## 3. Raspberry-PI
+Alle notwendigen Einstellungen sind im folgenden [Image](https://goo.gl/BdDGMM) enthalten.
 Dazu einfach die SD-Karte mit diesem [Image](https://goo.gl/BdDGMM) bespielen.
 Hierfür diese Anleitung für [Windows](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md), [Mac OS](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md) und [Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md) benutzen.
+Für diese Installation ist es wichtig, dass eine 16GB Micro SD-Karte vorhanden ist, da sonst das Image nicht aufgespielt werden kann.
 
+## Anschluss
+<img src="images/IMG_20170627_123144_122.jpg" width="500">
 
 ## Konfigurationen
 
+Die Konfiguration erfolgt durch anschließen einer Maus und Tastatur an das Raspberry PI.
+1. Nach dem Start des Gerätes ALT+F4 um den Browser zu schließen der das Webcam bild des anderen PIs anzeigen sollte
+2. nano /home/pi/restApi.py
+3. In der Datei die IP-Adresse des Partner PIs eintragen
+4. CTRL+X drücken und die Datei speichern
+5. nano /.... Tim hier muss der Pfad deiner SH File rein
+6. Schritt 3. und 4. widerholen
+7. Das Raspberry PI neustarten (sudo reboot)
 
 ## Ausblick
