@@ -25,7 +25,7 @@
 * 1x USB to FireWire (Männlich/Männlich)
 * Lötzinn
 * 5 Widerstände
-* 16GB Micro SD Karte
+* mindestens 16GB große Micro-SD-Karte
 
 ### Werkzeug
 * Holzberarbeitungswerkzeug für das Gehäuse
@@ -64,7 +64,7 @@ ___
 Alle notwendigen Einstellungen sind im folgenden [Image](https://goo.gl/BdDGMM) enthalten.
 Dazu einfach die SD-Karte mit diesem [Image](https://goo.gl/BdDGMM) bespielen.
 Hierfür diese Anleitung für [Windows](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md), [Mac OS](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md) und [Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md) benutzen.
-Für diese Installation ist es wichtig, dass eine mindestens 16GB große Micro SD-Karte benutzt wird, da sonst das Image nicht aufgespielt werden kann.
+Für diese Installation ist es wichtig, dass eine mindestens 16GB große Micro-SD-Karte benutzt wird, da sonst das Image nicht aufgespielt werden kann.
 
 ### Anschluss
 <img src="images/IMG_20170627_123144_122.jpg" width="500">
