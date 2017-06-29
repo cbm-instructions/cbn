@@ -55,7 +55,8 @@
 
 ___
 ## 3. Matrix
-Die Matrix wird wie folgt angeschlossen:
+Die Matrix wird wie folgt an den Arduino-Mega angeschlossen:
+
 <img src="images/IMG_20170627_123144_122.jpg" width="500">
 
 ___
