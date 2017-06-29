@@ -6,7 +6,7 @@
 ## Point of View
 > Wie können wir den Studenten helfen, Kontakt zu anderen Fakultäten aufzubauen.
 
-## Material und Werkzeug
+## 1. Material und Werkzeug
 ### Material für Netzwerkverbindung
 * LAN-Kabel
 * Switch
@@ -33,11 +33,8 @@
 * Lötkolben
 * Schraubendreher
 
-## Vorbereitung
-
-## Step-by-Step Guide
-### 1. Arduino-Mega (Labyrinth-Spiel)
-#### Anschlüsse / Verkabelung
+## 2. Arduino-Mega (Labyrinth-Spiel)
+### Anschlüsse / Verkabelung
 
 <img src="images/IMG_20170627_120535_451.jpg" width="500">
 
@@ -47,7 +44,7 @@
 
 <img src="images/IMG_20170627_120620_243.jpg" width="500">
 
-#### Software
+## Software
 
 1. Die Bibliothek 
 [RGB-matrix-Panel](https://drive.google.com/file/d/0B50TDmuMFSKsUUpuMk5kRlZKdFk/view?usp=sharing) und [Adafruit-GFX](https://drive.google.com/file/d/0B50TDmuMFSKsV3NNSXlYT0RGSzA/view?usp=sharing) herunterladen
@@ -56,21 +53,22 @@
 3. Nun kann man durch klicken auf den Hochladen Button das Programm auf den Arduino aufspielen
 <img src="images/Upload.PNG" width="500">
 
-
-## 2. Matrix
+___
+## 3. Matrix
 Die Matrix wird wie folgt angeschlossen:
 <img src="images/IMG_20170627_123144_122.jpg" width="500">
 
-## 3. Raspberry-PI
+___
+## 4. Raspberry-PI
 Alle notwendigen Einstellungen sind im folgenden [Image](https://goo.gl/BdDGMM) enthalten.
 Dazu einfach die SD-Karte mit diesem [Image](https://goo.gl/BdDGMM) bespielen.
 Hierfür diese Anleitung für [Windows](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md), [Mac OS](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md) und [Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md) benutzen.
 Für diese Installation ist es wichtig, dass eine 16GB Micro SD-Karte vorhanden ist, da sonst das Image nicht aufgespielt werden kann.
 
-## Anschluss
+### Anschluss
 <img src="images/IMG_20170627_123144_122.jpg" width="500">
 
-## Konfigurationen
+### Konfiguration
 
 Die Konfiguration erfolgt durch anschließen einer Maus und Tastatur an das Raspberry PI.
 1. Nach dem Start des Gerätes ```ALT+F4``` drücken um den Browser zu schließen der das Webcam bild des anderen PIs anzeigen sollte
