@@ -46,7 +46,12 @@ ___
 
 <img src="images/IMG_20170627_120620_243.jpg" width="500">
 
-## Software
+### Matrix
+Die Matrix wird wie folgt an den Arduino-Mega angeschlossen:
+
+<img src="images/IMG_20170627_123144_122.jpg" width="500">
+
+### Software
 
 1. Die Bibliothek 
 [RGB-matrix-Panel](https://drive.google.com/file/d/0B50TDmuMFSKsUUpuMk5kRlZKdFk/view?usp=sharing) und [Adafruit-GFX](https://drive.google.com/file/d/0B50TDmuMFSKsV3NNSXlYT0RGSzA/view?usp=sharing) herunterladen
@@ -56,13 +61,7 @@ ___
 <img src="images/Upload.PNG" width="500">
 
 ___
-## 3. Matrix
-Die Matrix wird wie folgt an den Arduino-Mega angeschlossen:
-
-<img src="images/IMG_20170627_123144_122.jpg" width="500">
-
-___
-## 4. Raspberry-PI
+## 3. Raspberry-PI
 Alle notwendigen Einstellungen sind im folgenden [Image](https://goo.gl/BdDGMM) enthalten.
 Dazu einfach die SD-Karte mit diesem [Image](https://goo.gl/BdDGMM) bespielen.
 Hierfür diese Anleitung für [Windows](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md), [Mac OS](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md) und [Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md) benutzen.
@@ -83,7 +82,7 @@ Die Konfiguration erfolgt durch anschließen einer Maus und Tastatur an das Rasp
 7. Das Raspberry PI neustarten (sudo reboot)
 
 ___
-## 5. Gehäuse
+## 4. Gehäuse
 
 ___
 ## Ausblick
