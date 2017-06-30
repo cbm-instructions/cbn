@@ -146,7 +146,7 @@ Auf der abgeschrägten Seite des Standbeins wird ein Holzbrett mit der selben Br
 
 Um alle Komponenten zusammenzubauen, wird zunächst die Hauptkomponente in die dafür vorgesehene Öffnung des Kontrollers hineingeschoben, und die Buttons verkabelt. Ist dies geschehen kann die Rückseite des Kontrollers angebracht werden.
 
-<img src="images/gehaeuse_3.JPG" width="500">
+<img src="images/gehaeuse_03.JPG" width="500">
 
 Diese gesamte Konstuktion kann nun auf das hierfür vorgesehene Brett am Ende des Standbeins geschraubt oder geklebt werden.
 
