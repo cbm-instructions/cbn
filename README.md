@@ -82,11 +82,13 @@ Dazu einfach die SD-Karte mit diesem Image bespielen.
 Hierfür diese Anleitung für [Windows](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md), [Mac OS](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md) und [Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md) benutzen.
 Für diese Installation ist es wichtig, dass eine mindestens 16GB große Micro-SD-Karte benutzt wird, da sonst das Image nicht aufgespielt werden kann.
 
-### Anschluss
+### LCD
 
 Um das Raspberry PI mit dem Bildschirm zu verbinden verwenden Sie bitte folgende [Anleitung](https://thepihut.com/blogs/raspberry-pi-tutorials/45295044-raspberry-pi-7-touch-screen-assembly-guide)
 
-
+<img src="images/2017-06-29%2013.19.07.jpg" width="500">
+<img src="images/2017-06-29%2013.18.56.jpg" width="500">
+<img src="images/2017-06-29%2013.18.37.jpg" width="500">
 
 ### Konfiguration
 
