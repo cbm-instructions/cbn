@@ -110,6 +110,7 @@ Das Gehäuse besteht aus 3 Komponenten:
 <img src="images/gehaeuse.png" width="500">
 
 **Hauptkomponente**
+
 Die Hauptkomponente des Gehäuses besteht jeweils aus einem Rahmen und 3 Sperrholzplatten.
 Die Segmente des Rahmens sind 2x560mm und 2x 260mm lang, haben eine Breite von je 70mm und laufen an beiden Enden rechtwinklig zu.
 10mm vom vorderen Rand aller Segmente entfernt, ist auf der Innenseite (schmalere Seite) eine 1cm tiefe Nut zu hinterlassen. In diese Nut wird später eine Sperrholzplatte geschoben, welche dazu dient, die LED Matrix sowie das Display in Position zu halten.
@@ -122,6 +123,7 @@ Beim montieren des Rahmens muss beachtet werden, dass die kleinere Sperrholzplat
 <img src="images/gehaeuse_1.png" width="500">
 
 **Kontroller**
+
 Der Kontroller besteht aus einem Rahmen, sowie 2 Sperrholzplatten.
 Die Segmente des Rahmens sind 2x350mm und 2x 325mm lang, haben eine Breite von mindestens 50mm und laufen an beiden Enden rechtwinklig zu. Die Länge kann nach Bedarf variiert werden.
 Als nächstes wird auch hier die Sperrholz-Platte zurechtgeschnitten, sodass wir zwei 350mm x 325mm große Platte haben.
@@ -132,12 +134,14 @@ Auch hier gilt beim Montieren, dass die Rückseite erst nach fertiger Verkabelun
 <img src="images/gehaeuse_2.png" width="500">
 
 **Standbein**
+
 Das Standbein besteht aus einem etwa einen Meter langem Balken (z.B. 70mmx70mm), sowie zwei Brettern (300mm x 400mm x 18mm| 200mm x 300mm x 18mm).
 Der Balken wird auf einer Seite mit einem Winkel von etwa 15° angesägt, damit der Kontroller für den Spieler besser zu erreichen ist.
 Die Beiden Bretter werden mittig aufeinandergeklebt und können nun mit Holzleim und Schrauben an der rechtwinkligen Seite des Balkens befestigt werden.
 Auf der abgeschrägten Seite des Standbeins wird ein Holzbrett mit der selben Breite wie der Kontroller angebracht, an dem dieser im Nachhinein befestigt werden kann.
 
-**Zusammenbau** 
+**Zusammenbau**
+
 Um alle Komponenten zusammenzubauen, wird zunächst die Hauptkomponente in die dafür vorgesehene Öffnung des Kontrollers hineingeschoben, und die Buttons verkabelt. Ist dies geschehen kann die Rückseite des Kontrollers angebracht werden.
 <img src="images/gehaeuse_3.JPG" width="500">
 
@@ -146,9 +150,11 @@ Diese gesamte Konstuktion kann nun auf das hierfür vorgesehene Brett am Ende de
 ## Ausblick
 
 **Raspberry:**
+
 Essentiell ist das Beheben der Ruckler im Videostream -> Hitzeproblem des Raspberry-PI reduzieren und ggf. Framerates des Streams in der config anpassen.
 
 **Labyrinth-Spiels:**
+
 Erweiterungen waren Anfangs geplant und werden ggf. noch nachgeholt:
 * roter Button als "Aufgeben / Spiel neustarten"
 * Schwierigkeitsstufen einführen, die man bei Spielstart auswählen kann
