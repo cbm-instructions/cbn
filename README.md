@@ -51,6 +51,7 @@ Die Matrix wird wie folgt an den Arduino-Mega angeschlossen:
 
 <img src="images/IMG_20170627_123144_122.jpg" width="500">
 <img src="images/IMG_20170627_120535_451.jpg" width="500">
+
 Die Detaillierte Verkabelung finden Sie auf der [Herstellerseite](https://learn.adafruit.com/32x16-32x32-rgb-led-matrix/connecting-with-jumper-wires)
 
 ### Buttons
@@ -60,10 +61,9 @@ Die Detaillierte Verkabelung finden Sie auf der [Herstellerseite](https://learn.
 
 <img src="images/IMG_20170627_120620_243.jpg" width="500">
 
-<<<<<<< HEAD
+
 Bei der Verkabelung der Buttons ist zu beachten, dass ein Pulldown Wiederstand zwingend erforderlich ist (siehe Abbildung).
 <img src="images/pulldown.png" width="500">
-=======
 
 
 ### Software
@@ -117,7 +117,7 @@ Eine der größeren Platten bleibt unverändert, wohingegen in die beiden übrig
 
 Beim montieren des Rahmens muss beachtet werden, dass die kleinere Sperrholzplatte von dem Zusammenfügen hineingesetzt wird. Anschließend kann die Front befestigt werden. Die Rückseite wird erst nach dem Verkabeln befestigt.
 
-<img src="images/gehaeuse_1.PNG" width="500">
+<img src="images/gehaeuse_1.png" width="500">
 
 **Kontroller**
 Der Kontroller besteht aus einem Rahmen sowie 2 Sperrholzplatten.
@@ -127,7 +127,7 @@ Auch hier bleibt eine der Platten unverändert, in die andere werden Löcher fü
 
 Auch hier gillt beim montieren, dass die Rückseite erst nach fertiger Verkabelung montiert werden sollte.
 
-<img src="images/gehaeuse_2.PNG" width="500">
+<img src="images/gehaeuse_2.png" width="500">
 
 **Standbein**
 Das Standbein besteht aus einem etwa einen Meter langem Balken (z.B. 70mmx70mm), sowie zwei Brettern (300mm x 400mm x 18mm| 200mm x 300mm x 18mm)
@@ -137,7 +137,7 @@ Auf der abgeschrägten Seite des Standbeins wird ein Holzbrett mit der selben Br
 
 **Zusammenbau** 
 Um alle Komponenten zusammen zu bauen, wird zunächst die Hauptkomponente in die dafür vorgesehene Öffnung des Kontrollers hineingeschoben, und die Buttons verkabelt. Ist dies geschehen kann die Rückseite des Kontrollersangebracht werden.
-<img src="images/gehaeuse_3.jpg" width="500">
+<img src="images/gehaeuse_3.JPG" width="500">
 
 Diese gesammte Konstuktion kann nun auf das hierfür vorgesehene Brett am Ende des Standbeins geschraubt oder geklebt werden.
 
