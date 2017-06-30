@@ -63,6 +63,7 @@ Die Detaillierte Verkabelung finden Sie auf der [Herstellerseite](https://learn.
 
 
 Bei der Verkabelung der Buttons ist zu beachten, dass ein Pulldown Wiederstand zwingend erforderlich ist (siehe Abbildung).
+
 <img src="images/pulldown.png" width="500">
 
 
@@ -73,6 +74,7 @@ Bei der Verkabelung der Buttons ist zu beachten, dass ein Pulldown Wiederstand z
 1. Die [Datei](Matrix-Game/CBM-Matrix-Game.ino) mit Hilfe der Arduino-IDE öffnen
 2. Nun auf den Reiter Sketch gehen dort den Unterpunkt Bibliothek einbinden wählen und hier dann .ZIP Bibliothek einbinden auswählen, dies für beide gedownloadeten Zip-Bibliotheken durchführen
 3. Nun kann man durch klicken auf den Hochladen Button das Programm auf den Arduino aufspielen
+
 <img src="images/Upload.PNG" width="500">
 
 ___
@@ -143,6 +145,7 @@ Auf der abgeschrägten Seite des Standbeins wird ein Holzbrett mit der selben Br
 **Zusammenbau**
 
 Um alle Komponenten zusammenzubauen, wird zunächst die Hauptkomponente in die dafür vorgesehene Öffnung des Kontrollers hineingeschoben, und die Buttons verkabelt. Ist dies geschehen kann die Rückseite des Kontrollers angebracht werden.
+
 <img src="images/gehaeuse_3.JPG" width="500">
 
 Diese gesamte Konstuktion kann nun auf das hierfür vorgesehene Brett am Ende des Standbeins geschraubt oder geklebt werden.
