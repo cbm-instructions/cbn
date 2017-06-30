@@ -25,32 +25,46 @@ ___
 * 1x Adapter für die Stromversorgung des Raspberry-Pi
 * 1x USB to FireWire (Männlich/Männlich)
 * Lötzinn
-* 5 Widerstände
+* 5 Widerstände (z.B. 10k Ohm)
 * mindestens 16GB große Micro-SD-Karte
 
 ### Werkzeug
-* Holzberarbeitungswerkzeug für das Gehäuse
+* Holzberarbeitungswerkzeug für das Gehäuse:
+*  - Tischkreissäge
+*  - Lasercutter
+*  - Bohrer
+* Holz für das Gehäuse:
+*  - 4m² Sperrholz (~4mm dick) je Gehäuse
+*  - 4000mm * 70mm * 18mm Holzbrett je Gehäuse
+*  - 1m Holzbalken je Gehäuse
+*  - 600mm * 300mm * 18mm Holzbrett je Gehäuse
 * Holzleim für das Gehäuse
 * Lötkolben
 * Schraubendreher
+* Schrauben
 
 ___
 ## 2. Arduino-Mega (Labyrinth-Spiel)
 ### Anschlüsse / Verkabelung
+### Matrix
+Die Matrix wird wie folgt an den Arduino-Mega angeschlossen:
 
+<img src="images/IMG_20170627_123144_122.jpg" width="500">
 <img src="images/IMG_20170627_120535_451.jpg" width="500">
+Die Detaillierte Verkabelung finden Sie auf der [Herstellerseite](https://learn.adafruit.com/32x16-32x32-rgb-led-matrix/connecting-with-jumper-wires)
 
+### Buttons
 <img src="images/IMG_20170627_120605_405.jpg" width="500">
 
 <img src="images/IMG_20170627_120628_387.jpg" width="500">
 
 <img src="images/IMG_20170627_120620_243.jpg" width="500">
 
-### Matrix
+<<<<<<< HEAD
+Bei der Verkabelung der Buttons ist zu beachten, dass ein Pulldown Wiederstand zwingend erforderlich ist (siehe Abbildung).
+<img src="images/pulldown.png" width="500">
+=======
 
-Um die Matrix richtig mit dem Arduino zu verbinden verwenden Sie bitte die folgenden [Anleitung](https://learn.adafruit.com/32x16-32x32-rgb-led-matrix/connecting-with-jumper-wires)
-
-<img src="images/IMG_20170627_123144_122.jpg" width="500">
 
 ### Software
 
@@ -87,8 +101,46 @@ Die Konfiguration erfolgt durch anschließen einer Maus und Tastatur an das Rasp
 
 ___
 ## 4. Gehäuse
+Das Gehäuse besteht aus 3 Komponenten:
+- Der Hauptkomponente, in der die LED-Matrix, der Raspberry Pi mit Display , die Kamera sowie der Arduino untergebracht werden.
+- Dem Kontroller, in welchem die Buttons untergebracht sind.
+- Dem Standbein, welcher die ganze Konstruktion hebt.
+<img src="images/gehaeuse.png" width="500">
 
-___
+**Hauptkomponente**
+Die Hauptkomponente des Gehäuses besteht jeweils aus einem Rahmen und 3 Sperrholzplatten.
+Die Segmente des Rahmens sind 2x560mm und 2x 260mm lang, haben eine Breite von je 70mm und laufen an beiden Enden rechtwinklig zu.
+10mm vom vorderen Rand aller Segmente entfernt ist auf der IInnenseite (schmalere Seite) eine 1cm tiefe Nut zu hinterlassen. In diese Nut wird später eine Sperrholzplatte geschoben, welche  dazu dient, die LED Matrix sowie das Display in Position zu halten.
+
+Als nächstes wird die Sperrholz-Platte zurechtgeschnitten, sodass wir zwei 560mm x 260mm und eine 540mm x 240mm große Platte haben. Die Reste der Platte werden beim Bau des Kontrollers weiterhin benötigt.
+Eine der größeren Platten bleibt unverändert, wohingegen in die beiden übrigen Platten Löcher für Matrix, Display und Webcam gemacht werden müssen.
+
+Beim montieren des Rahmens muss beachtet werden, dass die kleinere Sperrholzplatte von dem Zusammenfügen hineingesetzt wird. Anschließend kann die Front befestigt werden. Die Rückseite wird erst nach dem Verkabeln befestigt.
+
+<img src="images/gehaeuse_1.PNG" width="500">
+
+**Kontroller**
+Der Kontroller besteht aus einem Rahmen sowie 2 Sperrholzplatten.
+Die Segmente des Rahmens sind 2x350mm und 2x 325mm lang, haben eine Breite von mindestens 50mm und laufen an beiden Enden rechtwinklig zu. Die Länge kann nach Bedarf variiert werden.
+Als nächstes wird  auch hier die Sperrholz-Platte zurechtgeschnitten, sodass wir zwei 350mm x 325mm große Platte haben.
+Auch hier bleibt eine der Platten unverändert, in die andere werden Löcher für die Buttons sowie die Hauptkomponente geschnitten.
+
+Auch hier gillt beim montieren, dass die Rückseite erst nach fertiger Verkabelung montiert werden sollte.
+
+<img src="images/gehaeuse_2.PNG" width="500">
+
+**Standbein**
+Das Standbein besteht aus einem etwa einen Meter langem Balken (z.B. 70mmx70mm), sowie zwei Brettern (300mm x 400mm x 18mm| 200mm x 300mm x 18mm)
+Der Balken wird auf einer Seite mit einem Winkel von etwa 15° angesägt, damit der Kontroller für den Spieler besser zu erreichen ist.
+Die Beiden Bretter werden mittig aufeinandergeklebt und können nun mit Holzleim und Schrauben an der rechtwinkligen Seite des Balkens befestigt werden.
+Auf der abgeschrägten Seite des Standbeins wird ein Holzbrett mit der selben Breite wie der Kontroller angebracht, an dem dieser im Nachhinein befestigt werden kann.
+
+**Zusammenbau** 
+Um alle Komponenten zusammen zu bauen, wird zunächst die Hauptkomponente in die dafür vorgesehene Öffnung des Kontrollers hineingeschoben, und die Buttons verkabelt. Ist dies geschehen kann die Rückseite des Kontrollersangebracht werden.
+<img src="images/gehaeuse_3.jpg" width="500">
+
+Diese gesammte Konstuktion kann nun auf das hierfür vorgesehene Brett am Ende des Standbeins geschraubt oder geklebt werden.
+
 ## Ausblick
 
 **Raspberry:**
